@@ -6,6 +6,7 @@ const User = () => {
   return (
     <div>User : {id}</div>
   )
+  
 }
 
 export default User
